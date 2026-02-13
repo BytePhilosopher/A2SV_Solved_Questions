@@ -1,0 +1,5 @@
+# Competitive Programming
+*.cph
+.cph/
+*.exe
+*.out
