@@ -24,7 +24,6 @@ for blocks in towers:
 
     mapped = [position[x] for x in blocks]
     
-    
     segments += 1  
     
     for i in range(len(mapped) - 1):
