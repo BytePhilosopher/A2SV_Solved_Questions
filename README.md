@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0274-h-index) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
@@ -56,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
