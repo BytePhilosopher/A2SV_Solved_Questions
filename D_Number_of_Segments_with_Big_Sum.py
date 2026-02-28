@@ -2,17 +2,13 @@ n,m = map(int, input().split())
 nums=list(map(int, input().split()))
 total=0
 ans=0
-tempsum=0
+left=0
 for right in range(n):
-    left=0
     total+=nums[right]
-    while total>m and left<=right:
+    while total>m:
         total-=nums[left]
-        tempsum+=nums[left]
-        ans+=1
+        ans+=n-right
         left+=1
-    total+=tempsum
-    tempsum=0
 
 
 print(ans)
