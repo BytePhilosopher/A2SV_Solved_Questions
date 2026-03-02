@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
