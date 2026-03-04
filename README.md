@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0881-boats-to-save-people](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
