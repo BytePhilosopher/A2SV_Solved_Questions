@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0791-custom-sort-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
