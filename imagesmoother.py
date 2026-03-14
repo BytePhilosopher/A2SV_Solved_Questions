@@ -5,7 +5,7 @@ class Solution:
         rows, cols = len(img), len(img[0])
 
         out = [[0] * cols for _ in range(rows)]
-
+    
         for r in range(rows):
             for c in range(cols):
                 _count = 0
