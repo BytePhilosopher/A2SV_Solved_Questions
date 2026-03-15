@@ -8,7 +8,7 @@ for _ in range(t):
     l=0
 
     for r in range(n):
-        while (a[r] -a[l]) >(n-(r-l+1)):
+        while (a[r] -a[l]) >(n-1):
             l+=1
 
         ans=max(ans, r-l+1)
