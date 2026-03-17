@@ -28,7 +28,7 @@ for i in range(h-1):
         if grid[i][j] and grid[i+1][j]:
             ver[i][j]=1
 
-
+                
 
 ph=[[0]*(w+1) for _ in range(h+1)]
 pv=[[0]*(w+1) for _ in range(h+1)]
