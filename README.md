@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1856-maximum-subarray-min-product](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1856-maximum-subarray-min-product) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
