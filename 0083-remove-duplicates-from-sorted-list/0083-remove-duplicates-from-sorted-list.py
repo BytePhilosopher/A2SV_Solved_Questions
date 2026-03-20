@@ -8,14 +8,12 @@ class Solution:
         if not head:
             return
         cur=head
-        hash=set()
-        hash.add(cur.val)
+
 
         while cur and cur.next:
-            if cur.next.val in hash:
+            if cur.next.val==cur.val:
                 cur.next=cur.next.next
             else:
-                hash.add(cur.next.val)
                 cur=cur.next
 
         return head
