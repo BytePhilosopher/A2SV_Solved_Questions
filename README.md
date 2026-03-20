@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
