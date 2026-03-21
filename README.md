@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1856-maximum-subarray-min-product](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1856-maximum-subarray-min-product) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -87,7 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
@@ -118,11 +122,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
@@ -173,6 +181,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -181,15 +194,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
@@ -202,10 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
@@ -217,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
@@ -246,4 +270,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
