@@ -1,16 +1,16 @@
-        t=int(input())
+t=int(input())
 
-        for _ in range(t):
-            n,k=map(int, input().split())
+for _ in range(t):
+    n,k=map(int, input().split())
 
-            br={}
+    br=[0]*(k+1)
 
-            for _ in range(k):
-                b,c=map(int,input().split())
-                br[b]=br.get(b,0)+c
+    for _ in range(k):
+        b,c=map(int,input().split())
+        br[b]+=c
 
-            tot=sorted(br.values(), reverse=True)
+    tot=sorted((v for v in br if v>0), reverse=True)
 
-            print(sum(tot[:n]))
-            br.clear()
+    print(sum(tot[:n]))
+  
 
