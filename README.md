@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Enumeration
 |  |
