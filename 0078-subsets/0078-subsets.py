@@ -5,7 +5,7 @@ class Solution:
 
         def subsets(i,curset):
             if i>=len(nums):
-                subset.append(curset.copy())
+                subset.append(curset[:])
                 return
 
 
