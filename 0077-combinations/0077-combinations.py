@@ -10,13 +10,12 @@ class Solution:
             if i>n:
                 return
 
-            cur.append(i)
+            for j in range(i,n+1):
+                cur.append(j)
+                comb(cur,j+1)
+                cur.pop()
 
-            comb(cur,i+1)
-
-            cur.pop()
-
-            comb(cur, i+1)
+        
 
         comb([],1)
         return ans 
