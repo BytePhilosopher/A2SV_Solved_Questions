@@ -7,8 +7,6 @@ class Solution:
                 ans.append(cur[:])
                 return
             
-            if i>n:
-                return
 
             for j in range(i,n+1):
                 cur.append(j)
