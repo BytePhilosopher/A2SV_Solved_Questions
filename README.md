@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0394-decode-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0052-n-queens-ii) |
