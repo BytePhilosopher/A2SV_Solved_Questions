@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0437-path-sum-iii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0437-path-sum-iii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0437-path-sum-iii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
