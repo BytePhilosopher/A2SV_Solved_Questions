@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0491-non-decreasing-subsequences](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0274-h-index) |
+| [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0791-custom-sort-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
+| [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0875-koko-eating-bananas) |
