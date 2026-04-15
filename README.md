@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [1856-maximum-subarray-min-product](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1856-maximum-subarray-min-product) |
 | [2487-remove-nodes-from-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -370,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
