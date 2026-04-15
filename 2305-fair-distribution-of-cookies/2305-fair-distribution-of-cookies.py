@@ -12,12 +12,13 @@ class Solution:
                 max_=min(max_,max(combs))
                 return
 
-            if max_<=max(combs):
-                return
+            
+                
 
             for j in range(k):
                 combs[j]+=cookies[i]
-                helper2(i + 1)
+                if max_>combs[j]:
+                    helper2(i + 1)
                 combs[j]-=cookies[i]
             
 
