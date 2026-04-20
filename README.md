@@ -4,8 +4,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -29,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
@@ -37,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -46,6 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1856-maximum-subarray-min-product](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1856-maximum-subarray-min-product) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2305-fair-distribution-of-cookies](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -125,15 +132,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0275-h-index-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## String Matching
 |  |
 | ------- |
@@ -186,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2305-fair-distribution-of-cookies](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Design
 |  |
 | ------- |
@@ -216,8 +229,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -257,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
@@ -276,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [1856-maximum-subarray-min-product](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1856-maximum-subarray-min-product) |
 | [2487-remove-nodes-from-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -315,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
+| [2305-fair-distribution-of-cookies](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Memoization
 |  |
 | ------- |
@@ -336,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -370,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -403,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2305-fair-distribution-of-cookies](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Enumeration
 |  |
@@ -424,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
