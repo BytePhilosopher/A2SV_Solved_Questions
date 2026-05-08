@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
+| [0645-set-mismatch](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
+| [0645-set-mismatch](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [2305-fair-distribution-of-cookies](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Memoization
 |  |
