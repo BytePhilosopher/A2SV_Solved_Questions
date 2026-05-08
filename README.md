@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0491-non-decreasing-subsequences](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0274-h-index) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
