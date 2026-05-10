@@ -2,9 +2,15 @@ t=int(input())
 for _ in range(t):
     n=int(input())
     a=list(map(int,input().split()))
-    m=int(input())
-    b=list(map(int,input().split()))
 
-    lef=0
-    rig=0
-# 1 3 4 2
+    ans=[]
+    for i in range(n):
+        if i==0 or i==n-1:
+            ans.append(a[i])
+        else:
+            if a[i]>a[i-1] and a[i]>a[i+1]:
+                ans.append(a[i])
+            elif a[i]<a[i-1] and a[i]<a[i+1]:
+                ans.append(a[i])
+    print(len(ans))
+    print(*ans)
