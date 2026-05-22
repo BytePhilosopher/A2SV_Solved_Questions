@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0274-h-index) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
