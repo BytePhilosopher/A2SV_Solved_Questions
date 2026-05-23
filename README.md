@@ -33,6 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0274-h-index) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
@@ -165,6 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
@@ -232,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -257,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -265,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 ## Linked List
 |  |
@@ -341,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -350,6 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -359,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bit Manipulation
@@ -395,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -432,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -448,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
@@ -500,4 +515,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
