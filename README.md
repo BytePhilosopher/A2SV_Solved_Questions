@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1856-maximum-subarray-min-product](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1856-maximum-subarray-min-product) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Math
 |  |
