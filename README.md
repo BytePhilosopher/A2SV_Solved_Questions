@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2305-fair-distribution-of-cookies](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Design
 |  |
 | ------- |
