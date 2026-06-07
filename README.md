@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1856-maximum-subarray-min-product](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1856-maximum-subarray-min-product) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Sorting
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
