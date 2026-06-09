@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
