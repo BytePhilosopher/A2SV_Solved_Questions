@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Math
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -548,4 +551,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
