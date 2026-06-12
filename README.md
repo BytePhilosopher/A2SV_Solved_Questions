@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2574-left-and-right-sum-differences](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sliding Window
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2305-fair-distribution-of-cookies](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Design
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [2305-fair-distribution-of-cookies](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -454,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
