@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
+| [3838-weighted-word-mapping](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3838-weighted-word-mapping) |
 ## Counting Sort
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
+| [3838-weighted-word-mapping](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3838-weighted-word-mapping) |
 ## Monotonic Stack
 |  |
 | ------- |
