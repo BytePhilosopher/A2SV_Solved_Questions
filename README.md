@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
 | [1472-design-browser-history](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
