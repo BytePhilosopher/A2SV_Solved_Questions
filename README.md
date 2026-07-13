@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1291-sequential-digits) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Doubly-Linked List
