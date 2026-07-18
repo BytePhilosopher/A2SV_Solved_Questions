@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1856-maximum-subarray-min-product](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1856-maximum-subarray-min-product) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -625,5 +627,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
