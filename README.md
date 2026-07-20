@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
+| [1260-shift-2d-grid](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1260-shift-2d-grid](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
