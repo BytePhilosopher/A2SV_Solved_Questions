@@ -18,7 +18,7 @@ class Solution:
                     temp.append(candidates[i])
                     combsum(i,temp,cursum + candidates[i])
                     temp.pop()
-                print(temp)
+                # print(temp)
             
             
 
