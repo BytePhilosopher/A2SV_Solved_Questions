@@ -18,8 +18,9 @@ class Solution:
                 # else:
                 if j>i and candidates[j]==candidates[j-1]:
                     continue
-                    
 
+                if cursum + candidates[j] >target:
+                    break
                 temp.append(candidates[j])
                 # used.add(candidates[j])
                 dfs(j+1,temp, cursum + candidates[j])
