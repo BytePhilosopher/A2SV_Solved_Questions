@@ -7,19 +7,18 @@ class Solution:
             if cursum==target:
                 ans.append(temp[:])
                 return
-            if cursum>target or j>=len(candidates):
+            if cursum>target:
                 return
             
             
             
             #takr 
-            if cursum + candidates[j]<=target :
-                temp.append(candidates[j])
-                combsum(j,temp,cursum + candidates[j])
-                temp.pop()
-            combsum(j+1,temp, cursum)
-    
-            print(temp)
+            for i in range(j,len(candidates)):
+                if cursum + candidates[i]<=target :
+                    temp.append(candidates[i])
+                    combsum(i,temp,cursum + candidates[i])
+                    temp.pop()
+                print(temp)
             
             
 
