@@ -3,29 +3,27 @@ class Solution:
         ans=[]
         candidates.sort()
 
-        def combsum(j,temp):
-            if sum(temp)==target:
+        def combsum(j,temp,cursum):
+            if cursum==target:
                 ans.append(temp[:])
                 return
-            if sum(temp)>target or j == len(candidates):
+            if cursum>target or j>=len(candidates):
                 return
             
             
             
             #takr 
-            temp.append(candidates[j])
-            combsum(j,temp)
-            temp.pop()
-
-
-            #skip
-            combsum(j+1,temp)
+            if cursum + candidates[j]<=target :
+                temp.append(candidates[j])
+                combsum(j,temp,cursum + candidates[j])
+                temp.pop()
+            combsum(j+1,temp, cursum)
     
             print(temp)
             
             
 
-        combsum(0,[])
+        combsum(0,[],0)
 
 
         return ans 
