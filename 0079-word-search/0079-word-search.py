@@ -11,6 +11,9 @@ class Solution:
             if cnt[ch]> count[ch]:
                 return False
 
+        if count[word[0]]> count[word[-1]]:
+            word= word[::-1]
+
         def dfs(i,j,ind):
             #if we get
             if ind==len(word):
