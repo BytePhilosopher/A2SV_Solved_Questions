@@ -3,24 +3,32 @@ class Solution:
         dx=set()
         dy=set()
         cols=set()
-        ans=[["."]*n for _ in range(n)]
-        res=[]
+        res=[["."]*n for _ in range(n) ]
+        print(res)
+        ans=[]
 
         def dfs(i):
+            #base case
             if i==n:
-                res.append(["".join(k) for k in ans])
+                ans.append(["".join(k) for k in res])
                 return
 
             for j in range(n):
-                if i-j not in dx and i+j not in dy and j not in cols:
-                    ans[i][j]="Q"
-                    dx.add(i-j)
-                    dy.add(i+j)
+                if i-j not in dy and i+j not in dx and j not in cols:
+                    dx.add(i+j)
+                    dy.add(i-j)
                     cols.add(j)
+                    res[i][j]="Q"
+
                     dfs(i+1)
-                    ans[i][j]="."
-                    dx.remove(i-j)
-                    dy.remove(i+j)
+
+                    #backtrack
+                    res[i][j]="."
+                    dx.remove(i+j)
+                    dy.remove(i-j)
                     cols.remove(j)
+
         dfs(0)
-        return res
+        return ans
+
+            
