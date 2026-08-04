@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0306-additive-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0394-decode-string) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1260-shift-2d-grid) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
