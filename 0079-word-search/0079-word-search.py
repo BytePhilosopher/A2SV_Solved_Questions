@@ -1,5 +1,15 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
+        if len(word)> len(board) * len(board[0]):
+            return False
+
+        count=Counter([c for b in board for c in b])
+        cnt=Counter(word)
+        print(count)
+
+        for ch, c in cnt.items():
+            if cnt[ch]> count[ch]:
+                return False
 
         def dfs(i,j,ind):
             #if we get
