@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
