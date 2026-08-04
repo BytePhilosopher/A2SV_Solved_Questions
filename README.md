@@ -648,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
