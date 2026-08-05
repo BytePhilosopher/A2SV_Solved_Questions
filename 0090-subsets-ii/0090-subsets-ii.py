@@ -1,32 +1,22 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        path=[]
-        result=[]
+        subset,curset=[],[]
+        n=len(nums)
         nums.sort()
-        seen=set()
 
-        def dfs(start):
+        def subsets(i,curset):
+            if i>=len(nums):
+                subset.append(curset[:])
+                return
+            curset.append(nums[i])
+            subsets(i+1,curset)
+            while i<len(nums)-1:
+                if nums[i]!=nums[i+1]:
+                    break
+                else: i+=1
+            curset.pop()
+            subsets(i+1,curset)
+            return
 
-            #base case
-            
-            result.append(path[:])
-           
-
-            
-            # print(path)
-            for index in range(start,len(nums)):
-                if index>0 and nums[index] not in seen and nums[index]==nums[index-1]:
-                    continue
-                path.append(nums[index])
-                seen.add(nums[index])
-                dfs(index+1)
-                seen.discard(nums[index])
-                path.pop()
-                
-
-            
-
-        dfs(0)
-   
-        return result
-
+        subsets(0,curset)
+        return subset
