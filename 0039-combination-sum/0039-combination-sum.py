@@ -9,15 +9,13 @@ class Solution:
                 result.append(current[:])
                 return
 
-            if total>target:
-                return
-
             for index in range(start,len(candidates)):
-                #pick
-                current.append(candidates[index])
-                #backtrack
-                dfs(index,total+candidates[index])
-                current.pop()
-                #skip
+                if total + candidates[index] <=target:
+                    #pick
+                    current.append(candidates[index])
+                    #backtrack
+                    dfs(index,total+candidates[index])
+                    current.pop()
+            
         dfs(0,0)
         return result
