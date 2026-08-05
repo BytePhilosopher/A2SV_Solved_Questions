@@ -5,21 +5,20 @@ class Solution:
 
         result=[]
 
-        def dfs(i,j,temp):
+        def dfs(start,cur):
+
             #base case
-            if len(digits)==len(temp):
-                result.append("".join(temp))
-                return
 
-            if i>=len(digits) or j>=len(hash[digits[i]]):
+            if len(cur)==len(digits):
+                result.append("".join(cur))
                 return
             
-            temp.append(hash[digits[i]][j])
-            dfs(i+1,0,temp)
-            temp.pop()
+            if start>=len(digits):
+                return
 
-            dfs(i,j+1,temp)
-
-            
-        dfs(0,0,[])
+            for ch in range(len(hash[digits[start]])):
+                cur.append(hash[digits[start]][ch])
+                dfs(start+1,cur)
+                cur.pop()
+        dfs(0,[])
         return result
