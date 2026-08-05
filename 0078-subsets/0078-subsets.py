@@ -1,25 +1,23 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        path=[]
         result=[]
+        n=len(nums)
 
-        def dfs(start):
+        curset=[]
 
+        def dfs(cur,ind):
             #base case
             
-            result.append(path[:])
-           
-
-            
-            # print(path)
-            for index in range(start,len(nums)):
-                path.append(nums[index])
-                dfs(index+1)
-                path.pop()
-
-            
-
-        dfs(0)
+            result.append(cur[:])
    
+
+            for i in range(ind,len(nums)):
+                #choose
+                cur.append(nums[i])
+                dfs(cur, i+1)
+                #unchoose
+                cur.pop()
+
+        dfs([],0)
         return result
 
