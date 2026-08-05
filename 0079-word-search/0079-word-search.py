@@ -10,8 +10,8 @@ class Solution:
         if board_count[word[0]] > board_count[word[-1]]:
             word = word[::-1]
 
-        for ch in word_count.items():
-            if word_count[ch]> board_count[ch]:
+        for ch,count in word_count.items():
+            if count> board_count[ch]:
                 return False
 
         def dfs(row, col,ind):
