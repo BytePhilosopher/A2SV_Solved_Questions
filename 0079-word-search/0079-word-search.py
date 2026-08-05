@@ -7,6 +7,9 @@ class Solution:
         word_count=Counter(word)
         board_count=Counter([word for w in board for word in w])
 
+        if board_count[word[0]] > board_count[word[-1]]:
+            word = word[::-1]
+
         for ch in word_count.items():
             if word_count[ch]> board_count[ch]:
                 return False
