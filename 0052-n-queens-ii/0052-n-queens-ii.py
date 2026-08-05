@@ -4,11 +4,12 @@ class Solution:
         dy=set()
         cols=set()
         ans=[["."]*n for _ in range(n)]
-        res=[]
+        count=0
 
         def dfs(i):
+            nonlocal count
             if i==n:
-                res.append(["".join(k) for k in ans])
+                count+=1
                 return
 
             for j in range(n):
@@ -24,4 +25,4 @@ class Solution:
                 dy.remove(i+j)
                 cols.remove(j)
         dfs(0)
-        return len(res)
+        return count
