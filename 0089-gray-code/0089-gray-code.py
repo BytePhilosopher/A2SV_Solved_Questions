@@ -1,26 +1,20 @@
 class Solution:
     def grayCode(self, n: int) -> List[int]:
+        result=[]
+        seen=set()
 
-        result =[]
-        seen = set()
-        def backtrack(current):
-
-            if current in seen:
-                
+        def dfs(num):
+            #base case
+            if num in seen:
                 return
-            result.append(current)
-            seen.add(current)
-            
+                
+            result.append(num)
+            seen.add(num)
             for i in range(n):
-               current = current ^ (1 << i)
-               
-               backtrack(current)
-            
-               current = current ^ (1 <<i )
-                  
-               
-        backtrack(0)
-        # for i in range(n):
-        #     print(i^(i>>n))
-        return result
+                num = num ^ (1<<i)
+                dfs(num)
+                num = num ^ (1<<i)
 
+                
+        dfs(0)
+        return result
