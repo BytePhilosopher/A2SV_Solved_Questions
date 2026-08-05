@@ -1,34 +1,37 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
-        dx=set()
-        dy=set()
-        cols=set()
-        res=[["."]*n for _ in range(n) ]
-        print(res)
-        ans=[]
+        dx=[False]*(n*2)
+        dy=[False]*(n *2)
+        cols=[False]*n
+        result=[]
 
-        def dfs(i):
-            #base case
-            if i==n:
-                ans.append(["".join(k) for k in res])
+        board=[["."]*n for _ in range(n)]
+
+        def dfs(index):
+
+            if index==n:
+                result.append(["".join(rows) for rows in board])
                 return
 
-            for j in range(n):
-                if i-j not in dy and i+j not in dx and j not in cols:
-                    dx.add(i+j)
-                    dy.add(i-j)
-                    cols.add(j)
-                    res[i][j]="Q"
+            for col in range(n):
+                if cols[col] or dx[col+index] or dy[index-col+n]:
+                    continue
+                
+                dx[col+index]=True
+                dy[index-col+n]=True
+                cols[col]=True
+                board[index][col]="Q"
 
-                    dfs(i+1)
-
-                    #backtrack
-                    res[i][j]="."
-                    dx.remove(i+j)
-                    dy.remove(i-j)
-                    cols.remove(j)
+                dfs(index+1)
+            
+                dx[col+index]=False
+                dy[index-col+n]=False
+                cols[col]=False
+                board[index][col]="."
 
         dfs(0)
-        return ans
+
+        return result
+                
 
             
