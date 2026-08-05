@@ -2,20 +2,22 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         result=[]
         current=[]
+        candidates.sort()
 
-        def dfs(start,total):
+        def dfs(start,remain):
             #base case
-            if total==target:
+            if remain==0:
                 result.append(current[:])
                 return
 
             for index in range(start,len(candidates)):
-                if total + candidates[index] <=target:
-                    #pick
-                    current.append(candidates[index])
-                    #backtrack
-                    dfs(index,total+candidates[index])
-                    current.pop()
+                if remain<candidates[index]:
+                    break
+                #pick
+                current.append(candidates[index])
+                #backtrack
+                dfs(index,remain-candidates[index])
+                current.pop()
             
-        dfs(0,0)
+        dfs(0,target)
         return result
