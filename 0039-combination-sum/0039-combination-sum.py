@@ -1,28 +1,23 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        ans=[]
-        candidates.sort()
+        result=[]
+        current=[]
 
-        def combsum(j,temp,cursum):
-            if cursum==target:
-                ans.append(temp[:])
+        def dfs(start,total):
+            #base case
+            if total==target:
+                result.append(current[:])
                 return
-            if cursum>target:
+
+            if total>target:
                 return
-            
-            
-            
-            #takr 
-            for i in range(j,len(candidates)):
-                if cursum + candidates[i]<=target :
-                    temp.append(candidates[i])
-                    combsum(i,temp,cursum + candidates[i])
-                    temp.pop()
-                # print(temp)
-            
-            
 
-        combsum(0,[],0)
-
-
-        return ans 
+            for index in range(start,len(candidates)):
+                #pick
+                current.append(candidates[index])
+                #backtrack
+                dfs(index,total+candidates[index])
+                current.pop()
+                #skip
+        dfs(0,0)
+        return result
