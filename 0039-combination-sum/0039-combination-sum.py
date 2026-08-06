@@ -1,23 +1,23 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+
+
         result=[]
-        current=[]
+        curset=[]
         candidates.sort()
 
-        def dfs(start,remain):
-            #base case
+        def backtrack(remain,start):
+
             if remain==0:
-                result.append(current[:])
-                return
+                result.append(curset[:])
 
             for index in range(start,len(candidates)):
-                if remain<candidates[index]:
+                if remain < candidates[index]:
                     break
-                #pick
-                current.append(candidates[index])
-                #backtrack
-                dfs(index,remain-candidates[index])
-                current.pop()
-            
-        dfs(0,target)
+
+                curset.append(candidates[index])
+                backtrack(remain-candidates[index],index)
+                curset.pop()
+
+        backtrack(target,0)
         return result
