@@ -1,28 +1,33 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
+        result=[]
         dx=set()
         dy=set()
-        cols=set()
-        
+        column=[False]*n
         count=0
-
-        def dfs(i):
+       
+        def backtrack(row):
+            #base case
             nonlocal count
-            if i==n:
+            if row==n:
                 count+=1
                 return
-
-            for j in range(n):
-                if i-j in dx or i+j in dy or j in cols:
+            
+            for col in range(n):
+                if column[col] or (row-col) in dy or(row + col) in dx:
                     continue
-                
-                dx.add(i-j)
-                dy.add(i+j)
-                cols.add(j)
-                dfs(i+1)
-               
-                dx.remove(i-j)
-                dy.remove(i+j)
-                cols.remove(j)
-        dfs(0)
+
+          
+                dx.add(row+col)
+                dy.add(row-col)
+                column[col]=True
+
+                backtrack(row+1)
+
+
+                dx.remove(row+col)
+                dy.remove(row-col)
+                column[col]=False
+
+        backtrack(0)
         return count
