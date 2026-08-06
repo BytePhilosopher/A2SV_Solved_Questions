@@ -4,21 +4,22 @@ class Solution:
               "6":["m","n","o"], "7":["p","q","r","s"],"8":["t","u","v"],"9":["w","x","y","z"]}
 
         result=[]
+        curset=[]
 
-        def dfs(start,cur):
+        def backtrack(index):
 
             #base case
-
-            if len(cur)==len(digits):
-                result.append("".join(cur))
+            if len(curset)==len(digits):
+                result.append("".join(curset))
                 return
-            
-            if start>=len(digits):
+            if index>=len(digits):
                 return
 
-            for ch in range(len(hash[digits[start]])):
-                cur.append(hash[digits[start]][ch])
-                dfs(start+1,cur)
-                cur.pop()
-        dfs(0,[])
+            for character in range(len(hash[digits[index]])):
+                curset.append(hash[digits[index]][character])
+
+                backtrack(index+1)
+
+                curset.pop()
+        backtrack(0)
         return result
