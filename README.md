@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
+| [0242-valid-anagram](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/0394-decode-string) |
