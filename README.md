@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3838-weighted-word-mapping) |
+| [3903-smallest-stable-index-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/BytePhilosopher/A2SV_Solved_Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
