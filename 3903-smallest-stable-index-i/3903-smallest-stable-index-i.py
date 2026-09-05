@@ -1,0 +1,24 @@
+class Solution:
+    def firstStableIndex(self, nums: list[int], k: int) -> int:
+
+        n = len(nums)
+
+        prefMax = [0] * n
+        suffMin = [0] * n
+
+        # Maximum from left → i
+        prefMax[0] = nums[0]
+        for i in range(1, n):
+            prefMax[i] = max(prefMax[i - 1], nums[i])
+
+        # Minimum from i → right
+        suffMin[n - 1] = nums[n - 1]
+        for i in range(n - 2, -1, -1):
+            suffMin[i] = min(suffMin[i + 1], nums[i])
+
+        # Find first stable index
+        for i in range(n):
+            if prefMax[i] - suffMin[i] <= k:
+                return i
+
+        return -1
